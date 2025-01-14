@@ -1,0 +1,35 @@
+REM Fun message script for DuckyScript
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+STRING Im the sigma.
+ENTER
+STRING Im icy.
+ENTER
+STRING You got trolled.
+ENTER
+ENTER
+STRING ⠀⢀⠔⠂⠉⠉⠉⠉⠑⠢⡄⣀⠔⠊⠁⠀⠒⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+STRING ⡰⠁⠀⠀⠀⠀⢀⣀⣀⣀⠘⡇⠀⠀⠀⠀⠀⠀⠘⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+STRING ⠁⠀⠀⣠⠔⠉⠁⠀⠀⠀⠉⠉⠲⣤⠖⠒⠒⠒⠲⠬⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀
+STRING ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢣⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀
+STRING ⠀⠀⠀⣠⠔⣊⠭⠭⠭⠭⢭⣛⠩⣉⠲⣇⠀⠀⢀⣶⠶⢦⣶⢷⣤⡀⠀⠀⠀⠀
+STRING ⠀⠀⢸⣵⣉⡤⠤⢤⣤⣤⣤⣬⠵⠮⣶⣌⣇⠐⣫⣶⣭⣭⣍⡑⢼⠁⠀⠀⠀⠀
+STRING ⠀⠀⠀⠀⠈⣅⠲⣿⣞⣿⣉⣿⠀⠀⠘⡎⣇⡜⣿⣾⣿⣹⡇⠈⣽⠀⠀⠀⠀⠀
+STRING ⠀⠀⠀⠀⠀⠀⠓⠤⢈⣉⣛⣓⣂⣒⣊⡽⠂⢹⣛⠛⢛⠛⣒⣩⠞⠀⠀⠀⠀⠀
+STRING ⠀⠠⠤⠂⠀⠀⠀⠀⠀⠀⠀⠀⣀⠼⠁⠀⠀⠀⠈⠫⡁⠐⠛⠁⠱⡀⠀⠀⠀⠀
+STRING ⢠⢶⠭⠭⣄⣀⠀⠀⠀⠤⠒⠉⠁⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⢰⢻⠄⠀⠀⠀
+STRING ⠀⠘⢦⣙⠲⠤⣍⡉⠑⠒⠢⠤⠤⠤⣀⣀⣀⣀⣀⣀⣀⣀⣀⠔⣡⠊⠀⠀⠀⠀
+STRING ⠀⠀⠀⠈⠉⠢⢄⡈⠉⠁⠀⠀⠒⠒⠦⠤⠤⠤⠤⠤⠤⠤⠤⠊⡸⠀⠀⠀⠀⠀
+STRING ⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠂⠤⠤⠤⠤⢄⣀⣀⡤⠤⠤⢤⠤⠚⠅⠀⠀⠀⠀⠀
+STRING ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠤⠒⠓⢤⠞⠀⠀⠀⠀⠀⠀
+STRING ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⢄⡠⢶⡁⠀⣀⣀⡀⢑⠢⣄⠀⠀⠀⠀
+STRING ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆⠀⠣⢶⠕⢋⢔⡵⠗⠁⠀⠈⠳⡀⠀⠀
+STRING ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢣⠀⠘⣖⡝⠁⠀⢀⠔⠀⠀⠀⠘⣆⠀
+STRING ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀⠈⠑⠤⢠⠃⠀⣠⠞⢀⠄⠈⢆
+ENTER
+ENTER 
+STRING This is a joke!
